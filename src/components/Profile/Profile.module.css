@@ -1,7 +1,7 @@
 .heads {
-    color: rgb(255, 255, 255);
+    color: rgb(231, 247, 252);
     text-align: center;
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(231, 247, 252);
     margin-bottom: 10px;
 }
 .stats {
@@ -11,5 +11,5 @@
 .part {
     margin: 10px 15px;
     padding: 10px;
-    border: 1px dashed rgb(255, 255, 255);
+    border: 1px dashed rgb(231, 247, 252);
 }
